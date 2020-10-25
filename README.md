@@ -7,7 +7,9 @@
 
 # Quick Description
 
-The controller is written with Python.
+The controller is written with Python. Follow this video to add python path to webots (It can only use certain version of python)
+https://www.youtube.com/watch?v=T5GWFpDsI3s&t=223s&ab_channel=RoboticsandControlSystems
+
 World already have shelf and fridge setup. The shelf have beer can and bottle in them for performing grasping. 
 
 PR2 RObot Description
